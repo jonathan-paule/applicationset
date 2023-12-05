@@ -4,6 +4,6 @@
     "address" : "https://10.162.0.49:32831",
     "name" : "engineering-prod"
   },
-  "commit_sha" : "8701ac661f9685779c2dbca1fa94faf57e9b5752",
+  "commit_sha" : "cc41f26197249153820b3971fbb5f21f6d3e3c3b",
   "aws_account" : "123456"
 }
